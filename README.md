@@ -5,5 +5,3 @@
 - 👯 I’m looking to collaborate on ... Websites
 - 🤔 I’m looking for help with ... JAMSTACK
 - 💬 Ask me about ... anything
-
--->
